@@ -792,7 +792,8 @@ st.markdown("""
     <p><strong>Personal Carbon Calculator Pro v3.0</strong></p>
     <p>Data sources: IPCC, national environmental agencies. Calculations are estimates.</p>
     <p style="margin-top: 1rem; font-size: 0.9rem;">
-        This is a college group project by <strong>Jayant Rajput, Aditya Pratap, Araav Gupta</strong>
+        This is a college group project by <strong>Jayant Rajput, Aditya Pratap, Aarav Gupta</strong>
     </p>
 </div>
 """, unsafe_allow_html=True)
+
