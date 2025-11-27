@@ -1,0 +1,134 @@
+{
+  "India": {
+    "Transportation": {
+      "Car (Petrol)": 0.192,
+      "Car (Diesel)": 0.171,
+      "Motorcycle": 0.105,
+      "Bus": 0.08,
+      "Metro/Train": 0.035,
+      "Auto Rickshaw": 0.11,
+      "Bicycle/Walk": 0.0,
+      "Electric Vehicle": 0.03
+    },
+    "Diet": {
+      "High Meat Eater": 3300,
+      "Medium Meat Eater": 2500,
+      "Low Meat Eater": 1900,
+      "Vegetarian": 1700,
+      "Vegan": 1500
+    },
+    "Electricity": 0.82,
+    "Waste": 0.57,
+    "Water": 0.298,
+    "CookingFuel": {
+      "LPG": 2.98,
+      "Natural Gas": 2.35,
+      "Electric": 0.82,
+      "Biomass": 1.5
+    }
+  },
+  "USA": {
+    "Transportation": {
+      "Car (Petrol)": 0.251,
+      "Car (Diesel)": 0.227,
+      "Motorcycle": 0.125,
+      "Bus": 0.089,
+      "Metro/Train": 0.041,
+      "Bicycle/Walk": 0.0,
+      "Electric Vehicle": 0.052
+    },
+    "Diet": {
+      "High Meat Eater": 3600,
+      "Medium Meat Eater": 2700,
+      "Low Meat Eater": 2100,
+      "Vegetarian": 1800,
+      "Vegan": 1500
+    },
+    "Electricity": 0.417,
+    "Waste": 0.62,
+    "Water": 0.344,
+    "CookingFuel": {
+      "LPG": 2.98,
+      "Natural Gas": 2.35,
+      "Electric": 0.417
+    }
+  },
+  "UK": {
+    "Transportation": {
+      "Car (Petrol)": 0.192,
+      "Car (Diesel)": 0.171,
+      "Motorcycle": 0.113,
+      "Bus": 0.103,
+      "Metro/Train": 0.041,
+      "Bicycle/Walk": 0.0,
+      "Electric Vehicle": 0.047
+    },
+    "Diet": {
+      "High Meat Eater": 3400,
+      "Medium Meat Eater": 2600,
+      "Low Meat Eater": 2000,
+      "Vegetarian": 1700,
+      "Vegan": 1500
+    },
+    "Electricity": 0.233,
+    "Waste": 0.58,
+    "Water": 0.344,
+    "CookingFuel": {
+      "LPG": 2.98,
+      "Natural Gas": 2.35,
+      "Electric": 0.233
+    }
+  },
+  "China": {
+    "Transportation": {
+      "Car (Petrol)": 0.192,
+      "Car (Diesel)": 0.171,
+      "Motorcycle": 0.105,
+      "Bus": 0.089,
+      "Metro/Train": 0.062,
+      "Bicycle/Walk": 0.0,
+      "Electric Vehicle": 0.085
+    },
+    "Diet": {
+      "High Meat Eater": 3200,
+      "Medium Meat Eater": 2400,
+      "Low Meat Eater": 1900,
+      "Vegetarian": 1600,
+      "Vegan": 1400
+    },
+    "Electricity": 0.555,
+    "Waste": 0.54,
+    "Water": 0.298,
+    "CookingFuel": {
+      "LPG": 2.98,
+      "Natural Gas": 2.35,
+      "Electric": 0.555
+    }
+  },
+  "Australia": {
+    "Transportation": {
+      "Car (Petrol)": 0.192,
+      "Car (Diesel)": 0.171,
+      "Motorcycle": 0.105,
+      "Bus": 0.089,
+      "Metro/Train": 0.041,
+      "Bicycle/Walk": 0.0,
+      "Electric Vehicle": 0.079
+    },
+    "Diet": {
+      "High Meat Eater": 3700,
+      "Medium Meat Eater": 2800,
+      "Low Meat Eater": 2100,
+      "Vegetarian": 1800,
+      "Vegan": 1500
+    },
+    "Electricity": 0.79,
+    "Waste": 0.61,
+    "Water": 0.344,
+    "CookingFuel": {
+      "LPG": 2.98,
+      "Natural Gas": 2.35,
+      "Electric": 0.79
+    }
+  }
+}
